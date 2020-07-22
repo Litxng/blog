@@ -1,0 +1,130 @@
+/* Home */
+
+.centered {
+    font-style: bold;
+    text-align: center;
+    font-size: 120px;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: fantasy;
+}
+
+#grey {
+    color: grey;
+    text-decoration: underline;
+}
+
+#red {
+    color: #752D33;
+    text-decoration: underline;
+}
+
+#black {
+    color: black;
+    text-decoration: underline;
+}
+
+.text-font {
+    font-family: 'Pangolin', cursive;
+}
+
+.link-font {
+    font-family: 'Fredoka One', cursive;
+    letter-spacing: 2px;
+    font-size: 25px;
+}
+
+.social-media {
+    font-size: 25px;
+}
+
+
+/* Journal */
+
+header {
+    background-color: #b19cd9;
+    height: 80px;
+    margin-top: 5px;
+}
+
+.head {
+    font-style: bold;
+    text-align: center;
+    font-family: Trattatello;
+    font-size: 50px;
+    color: white;
+    padding-top: 10px;
+}
+
+.title {
+    height: 50px;
+    background-color: #aec6cf;
+    text-align: center;
+    line-height: 50px;
+    text-decoration: underline;
+    font-family: Comic Sans MS;
+    padding-top: 5px;
+}
+
+.wed {
+    height: 250px;
+    border: 3px solid black;
+    border-color: #ffd1dc;
+    border-radius: 5px;
+    padding-left: 180px;
+    padding-top: 40px;
+}
+
+.wedpic {
+    float: right;
+}
+
+.text {
+    width: 1000px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.blog-entry {
+    text-align: center;
+    font-family: Comic Sans Ms;
+    background-color: FFDFD3;
+    line-height: 50px;
+}
+
+#upload {
+    background-color: #b19cd9;
+    border-color: transparent;
+    color: black;
+    font-family: Comic Sans Ms;
+}
+
+
+/* portfolio */
+
+.portfolio_head {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.p_head {
+    font-family: Trattatello;
+    font-size: 70px;
+    color: white;
+    background-color: d7b9d5;
+    height: 100px;
+    padding-top: 8px;
+}
+
+.p_title {
+    font-family: Trattatello;
+    font-size: 70px;
+    color: white;
+    background-color: 90a8c3;
+    height: 100px;
+    padding-top: 8px;
+}

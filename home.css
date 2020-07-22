@@ -1,0 +1,41 @@
+.centered {
+    font-style: bold;
+    text-align: center;
+    font-size: 120px;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: fantasy;
+}
+
+#grey {
+    color: grey;
+    text-decoration: underline;
+}
+
+#red {
+    color: #752D33;
+    text-decoration: underline;
+}
+
+#black {
+    color: black;
+    text-decoration: underline;
+}
+
+.text-font {
+    font-family: 'Pangolin', cursive;
+}
+
+.link-font {
+    font-family: 'Piedra', cursive;
+    letter-spacing: 2px;
+    font-size: 25px;
+}
+
+.social-media {
+    font-size: 25px;
+}
